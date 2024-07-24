@@ -1,0 +1,5450 @@
+[
+    {
+        "text": "Whoa ho .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "No , I do not .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "We are you just ten seconds later !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "And Ross gave me this great book",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "The movie theatre , you used to come in all the time .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Nope , nope , I would just ah , I would rather talk to you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No ... no , it is not okay !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Okay sweetie , you can do it . Just open up and put it in your mouth .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "What happened to the Disgustingtons ?",
+        "predicted_emotion": "disgust"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "But we ... we did not have ... sex ... uh , did we ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What do you think you are gonna do , have sex with her right here on my couch ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No , no , that ... that , that is all right . Umm , I am just glad you called .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , absolutely !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh ! Wow ! Uh , yeah ! That sounds great . I am just gonna put this back in my pocket , pretend that didn\u2019t happen .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Thank God .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Hi !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well , no . That is impossible . He can never be too Alan .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "He is a he ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah ! Now , why do you want to kill yourself ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I talk to you and it is nothin .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Thank you !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh ? Really ? That is what my daughter means to you ? Nothing ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh , I am not doing it alone . I have Ross .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "God . Do you think it really does not hurt ? How can they do that ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Ross , you are like my best friend .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "You know it is ironic ...",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Thank you , Monica .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yes , hi .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Julie cervix is dilated a seven centimeters , that is about four fingers . The doctor let me feel it myself .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It is a long story but the things you just said really made my day !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well honey , what about you ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , you should , really .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Bye ... bye ! That is why I moved out .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Okay , umm , why do not , why do not you all start to read , while I ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I had such an opportunity in the recent , present .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hi .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And then you said , \" Why do they call it a check ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You know , one of them had never been to a bachelor party before .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Eligible looters ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Thanks , Chandler .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah . Yeah ? Yeah .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "If you tell me , I will tell you what Phoebe said .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Now honey , you take care , you do not have those babies until I get back .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "One ticket to Yemen ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Man , I wish I was naked .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Well , I think this is a great place to work !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "You know I am ... I am really glad we decided not to sleep together before the wedding .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh well that is what I thought about my first husband , now I am lucky if my kid gets to spend the weekend with her father and the twins and little Ms . New Boobs .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Every year .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And then Ross new girlfriend , Bonnie , shows up and Rachel convinced her to save her head .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Perhaps . Now I am curious , at what point during those girlish screams would you have begun to kick my ass ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh , I wanna quit , but then I think I should stick it out , then I think why would such a person stay in such a demeaning job , just because it is remotely related to the field they are interested in .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh , I have not had that feeling since I first started going out with Chandler .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Ohh , I know one thing !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "We are still on this side of the door .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Chloe , switch with me , there is some guys here that got a crush on you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "All right , just , just take the entertainment center , and then when you get home , throw the canoe away !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , you have 19 questions left . Use them wisely . Come on Joey ! You can not win if you do not ask any",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hey . Soaps ? Shampoos ? Are you really taking all this stuff ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "If it was , would you stop hanging out with her ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh , great ! Me too .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well , maybe it is a contest , you know ? Like , collect all five ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "How do you think she is doing ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What are you talking about ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Yeah !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "That is so silly .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Well",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Thanks , bye .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Here you go , maybe this will cheer you up .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Five letters .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well uh if you must know I am a widower .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What are you talking about ? Lots of things rhyme with Rachel . Bagel . Mail . Jail . Bail . Able . May ... pole .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Ok !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Hi !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "The doctor is a monkey .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Really ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "For my last birthday you gave me a hug !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "It is a known fact that women love babies , all right ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "But I will still always come back , like this .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "No ... no ... no , no ! Do not !",
+        "predicted_emotion": "fear"
+    },
+    {
+        "text": "Seven hundred bucks !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "You know Monica you had a minor setback in your relationship with Chandler . Big deal ! It is only Chandler . I am so sorry .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Stating the obvious , but thank you . And it is not weird is it .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ohh , you can say . Come on , I do not want you to feel like you can not tell me things .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I am fine .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "4 : 00 a . m .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am sorry .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "No , you did not . The only thing that freaked me out was you saying that nothing could ever happen between us .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "They were so ornate and beautiful , I mean look at that !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "It is a tradition , like the parade . If the parade decided it was gay , moved out , and abandoned its entire family .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey ! Guys , this is Tabatha . I will see you tomorrow .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No . And then I called him , and he was not there .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "I am funny ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "He might still show up .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I can not believe he did this .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "And then whoever does gets the phone .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And now , he is got a two year contract opposite Susan Luchhi , the first lady of daytime television , and me , me I am stuck here teaching a bunch of people , most of whom are too ugly to even be on TV .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "I do not know . You uh , you got something for me ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "\" You wanna go over to Joey and Chandler ? \"",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Excuse me , I am sorry , I am gonna have to call you back , I have got a Schemp in my office .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ok , but you know what ? I gotta say , I am really impressed that you were able to memorize all this so quickly !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "All right , well why do not I go out with an ex ... boyfriend and do Joey a favor ? !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Not you guys .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And instead my parents got me this little plastic chicken that you hop around on .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , look at the little cat !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Ramoray !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Okay , so if an eight comes up , we take it as a sign and we do it !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No ! Sorry , I just thought you were somebody else . Hi !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh ! No problem ! I ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No , I did , but tell me again , because it is so romantic .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am telling you , something wrong ! My brother does not stay out all night .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Uh ... huh .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Good deal .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Now , I am just letting you know that this is",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , you will have to wait your turn .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I will not speed .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh yeah , that was great . Thanks to you , the hottest cocktail waitress there is quitting to teach the third grade !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I am gonna go talk to uh , a friend .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey buddy , do you think I can borrow your uniform this Thursday ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Look , just because some idiot drew on your face does not mean you should not have any fun !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Ross !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Come on Chloe ! Finish up with your customer first . Come on Chloe ! Come on Chloe ! !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No . When it comes to sweets , he is surprisingly strict .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "For him .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Where you going ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Here a chick , there a chick , everywhere a chick ... chick ... chickeeeen .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Did you make your deposit ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It happened in London .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "All right .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Umm , okay , okay , look .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "See , yes .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Do not give me that deep freeze .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "He wants to talk to you again .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What a sweet story .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh God , Ross , I cannot do this .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "It is possible , they have really sharp edges .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , if you think it will help .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Estelle said I did not get it .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Ow ! Did you just bite me ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah , yeah I got that .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hello .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh sir , may I see your tickets please ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am with Hamilton !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "What the hell is that ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "No !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Because I sure as hell can not figure it out !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Joey , where are the Jell ... o shots ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well do you want some help ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Joey , do you have a minute ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh God .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "You can not ask us son , that is cheating .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Whoa !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "What ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Hey lady , your day over ! It is my turn !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Joey , can I talk to you for a second ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You know , I do not think we brought enough stuff . Did you forget to pack the baby anvil ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yep !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I am sorry , do I know you ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Thank you , but I want to remove it Pheebs . I do not want to make it savory .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Did anybody else feel they just wanted to peel the skin off their body , to have something else to do ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , we saw this really interesting website about marriage and how totally unnecessary it is and how its just a way for the government to keep tabs on you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "He had C . H . E . E . S . E .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Jill says vestibule ... I am going with vestibule .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I miss Janice though . \" Hello , Chandler Bing . \"",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , I thought there was a mirror there . Okay , bye ... bye .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Having a swim .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Sorry . Sorry ! Hey ! Hey ! I got my s back !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Hey , Rach . How was it with your friends ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Can not I just look at the handles on them ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "When are you coming home ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Looks like I was second to last .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I know it is in the apartment , but I definitely lost it .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "What ? ! You are crazy ! There is nothing sexual about the noises I make !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah baby !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Okay , look .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh wait ! Stop ! Stop ! Stop !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh my God !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Call it even ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Pheebs , what are you doing with the coat ? How about the whole animal rights thing ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Barry ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ok . Oh boy . You are doing so good . You wanna squeeze my hand ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well , he may not be my soul mate , but a girl gotta eat .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , then what happened ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Are you kidding ? ! Another week with that simp , I will kill myself !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hey uh , I do not mean to be presumptuous but I have these two tickets to the ballroom dancing finals tomorrow night if you want to go ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Joey !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "But I stand by my review , I know food and that was not it .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Yes . Yes , he says I am damaged goods .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "It is way to hot .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "The only person that should feel awkward is you , and you did not tell him not to call me , did you ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Quick , aim him at that pack o babes over there .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Danger !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I think I know who you are talking about .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Thank you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am not !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "What ? ! You are going out with her again !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I know !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Phoebe , do not get upset !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "But ah , hey , oh , somebody off the phone , how bout a glass of wine by the fire , I could get it going again .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "That is not a state Joe .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You are a big scrud .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yep . Yep , that is what I did not want to know .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , it is this big budget period movie about these three Italian brothers who come to America around the turn of the century .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , we are starving , why do not we all go get something to eat ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "That is kinda sad .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Dude !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I , I can not help you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah . Ooh , and I know Gail Rosten is in there twice , but she is so ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Or we could throw you both in now !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Molly ... people do not study acting ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , look at this one . This is my favourite .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I needed a plan , a plan to get over my man .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Your license please .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay . All right .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ah yes , but he is very protective of me so you would better watch yourself .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Fine !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Is that too much to ask after six years ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "So ! I am just an empty vase , huh ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yes !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Forever .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Hey , Dr . Farber .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And ... and you do not need , you do not need this custom ... made , empire ... waisted , duchess , satin gown . You can wear off the rack .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay that is , you know what that is ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Umm , I think you are really , really great ...",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No , no , trust , me , it is , it is , it is much better that I know .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "All I really needed was a plan .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Why should I help you out ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Rachel , it is not that your friend is bad , it is that she is so bad , she makes me want to put my finger through my eye into my brain and swirl it around .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "My god , you guys , I do not believe you .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Umm , you know we ... we could try dirty talk ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey Mikey",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Why would they take away our keys ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "All right girls , and man . Let see your final tallies . Ohhhh , Debbie , 321 boxes of cookies , Very nice .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , a slice of cheesecake and ... and a date if you are given em out .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh ... oi ... ho , yeah !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yeah . All right , I will talk to you later .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Is not he an architect now ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No , interestingly enough her leaf blower picked up .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Do not , do not just dismiss this so fast .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Who are you talking too ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah , okay , bye .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Good runnin into you at the bank today , so ah , here is my number , 555 ... 9323 . Give me a call . Later .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Pretty nice ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I can not believe this . Do you think that your parents could help pay for it ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Thank you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So what a matter , you need a dentist ? I have got a good one .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "My feet best friends , pals to the end .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "There is twelve bucks I will never see again !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "No ! No , fear of the number 13 .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I kind of fell asleep in the meeting this morning so when I said I would move to Tulsa , I did not really know what I was saying .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Yeah , it could not hurt to look .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No , we are gonna paint over the sword , and replace it with a baguette .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "All right , I am nine years old .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Wow , you have really pretty feet .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Okay . Ow ! ! ! ! ! Ow ... oh ... oh !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "How many perfectly fine women are you gonna reject over the most superficial insignificant things ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Okay , okay , what going on ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I do not know what it is , I just can not take a good picture .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Oh my God .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Let grab our stuff and get the hell out of here .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I would love to live with you Ross . That is ... that is great ! Thank you !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Okay .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am really getting tired of sneaking around .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh , my god , I am so sorry . Are you ok ?",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "So were done then !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yes .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , sure , sure I can bring some sandwiches .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oy !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "What exactly were you looking for , hmm ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yes ... yes ... yes ! But , I ... I do",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You know what Greg ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , where is he ? He is supposed to be here . What if the baby needs him ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , this is not working . I am still awake and now I have to pee .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh , that is okay , I can not wait to see everything again ! All of the memories",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Irony ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Eh , he said , thank you very much , he thinks you look very pretty tonight , your hair , golden like the sun .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Shoot , I gotta go . So , I will talk to you later .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah I did !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Your other student , was you !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ok , ok , ok , ok , here goes .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Relax every muscle in your body .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You see that guy ? He is in classics now , but you know as soon as we leave he is going straight to the porn .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "and then , we could have gone from the ceremony to the reception with you in the sidecar !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "What is the big deal ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Thank you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh no ... no ... no ... no , I meant Chandler .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , they are not so bad .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I love the specifics , the specifics were the best part !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , I should go , too .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "You know what ? It was a stupid play anyway !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Every moment is precious .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Who am I gonna meet in a blackout ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , hey , look , I found coffee ! Okay , let skedaddle .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Ok , so now we need , um sage branches and the sacramental wine .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Absolutely !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So , how many have you sold so far ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uhh , are you saying that you are not entirely happy about this ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Wait a minute , open up your hand ; let me take a look .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "All right , then you would better show me some of that too then .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I like waking up with you too . Oh ! It is such a beautiful morning . Oh , I can stay here all day .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh ! Hello ? Yeah this is Phoebe . Really ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Doctor ? Wow ! I did not know he had a nickname .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Okay .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Look , the truth is , I have not felt this way about anyone since Rachel , ok ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , come on ! He is glad that I came , he does not want me to go anywhere , balls flying all over the place !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I thought it was gonna be a closed casket .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "It is a trifle .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , cause then they would be like my mom used to make them , you know , before she died .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hi there . How many , how many ah , did you sell ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So this is it ? Victor ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "She cancelled ! My namesake cancelled on me !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Good , and hey ! My treat . But that is only because you are not eating anything , right ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I could have birds .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Why not ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey , hey , look . Look Ross , Ben drew a picture of you ! Huh ? You are ... you are a cowboy !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I am sorry . I am sorry , Phoebe . It is just a little shorter than what we had discussed .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well I just , thought maybe you would wanna book some time with the best you would ever had .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ohhh ! ! ! !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "She broke my arm .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Yeah , so ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It was unbelievable ! We could totally be ourselves , we did not have to play any games .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yeah ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh we did not , uh we did not get the chance to talk .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "3 , 2 ,",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "The little jail between the doors !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Uh ... huh . Yeah , I ... I have a knack for impressions .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , now that was Gerston , Santos , and who the guy with the moustache ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Really ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "What the opposite of man ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "And if heaven has a door , I am sure he is pressing his ear up against it and listening intently .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You just wanna each take one ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay ! That is a four ! And where ... where is the other one ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Right down there .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "But I could not .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Oh , oh , but you know , you always see these really beautiful women with these really nothing guys , you could be one of those guys .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , Phoebe , this Dr . Oberman . He has no strong feelings about Fonzie or any of the Happy Days gang .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Of course not , it smells like wine , which you spilled ! And thanks for wrecking my sheet by the way .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh yeah ! Oh my God ! That is our friend ! It is Naked Ross !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh now daddy , stay calm . Please .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Set it down over there and then you can make a contribution !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "\" The Way You Look Tonight \" is on here . Dance with me .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Joey , you can not keep this to yourself , if you know about this , you have to tell him .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , the cat ... the cat turned out to be Paolo cat !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh my God ! What are you doing here ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "With a mahogany sleigh bed and bedside tables with flowers on them all the time !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Sure !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "What am I making him by the way ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You sure are naming a lot of ways to postpone sex , I will tell ya",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You went to one where you were popular , and you got to ride off Chip motorcycle , and wear his letterman jacket .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh my God ! ! Do it ! ! Honey , you have waited long enough ! !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh , look , he is opening his eyes .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "We won . We won !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "... What did I ask ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh we did , and you still have all your lamps .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No ... no it is not !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "My Father is Chuck Magioni ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Good .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Stupid , useless Canadian money !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Yeah , I said what was okay when I thought she was some weird bald chick . I mean , you know , that girl has got hair all over her head !",
+        "predicted_emotion": "disgust"
+    },
+    {
+        "text": "Gunther , I quit .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Look , I have been thinking about it .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am a good kisser .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Mm ! Seems like I would have remembered you !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "It is the right time .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So , Phoebs owes $ 7 . 50 , Monica , you owe $ 10 , and Rachel , you owe fifteen big ones .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah ! Okay , this one is a mushroom cap . Umm , this one is made of bologna .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay look , I have an idea .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh ... oh , Bruiser has Becker on the canvas and is going for his favourite area .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I love the license plate game !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "That is you , Rachel !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "You need me to go down there with you and hold your hand ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You know , I feel like I have lost her ... Ba ... !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Doctor you gotta do something ! I think you gotta give me drugs or you gotta light a fire up in there and just smoke it out .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Fine ... mediocre porn",
+        "predicted_emotion": "disgust"
+    },
+    {
+        "text": "All right .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh my God Ross ! !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Can I get a beer .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , next time your massaging him , you should try and distract yourself .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ross !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Well why not ? So you can spend your time with this tramp ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Okay ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh right .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Wow ! Cool !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well , um , for the past few years ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Absolutely , oh I promise . Tell her what ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "A new pair of shoes for the Chan ... Chan man ! Yes !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "My first time with Carol was ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh my God .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Wendy bailed . I have no waitress .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "That you enjoyed the occasional drink ... ing binge .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , I do not think I ever heard that story .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Can you , can you hang on a second ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh good , when he comes back for his keys , I will be sure to give him your shoe .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh no , I know I could not see it either at first , but it is right umm ... Ross , I lost it again .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "You are falling fast asleep .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Honey , if you wanted to do that , you might as well just gotten him a fish , you know how fish freaked me out !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh no , no ... no ... no ... no ! I do not want to know !",
+        "predicted_emotion": "fear"
+    },
+    {
+        "text": "I think I am gonna take ... off .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh ,",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey , guys , you know what Larry would say ? He would say , \" See you ladle . \"",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Or with the other two women , in the morning you know I was just lying there and I could not wait to just go hang out with my friends , but with you I always you know with a friend .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Wh ... which is why I ah , ahh , okay .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Daddy !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh yeah well , I am sorry about that too , but what are you going to do ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah ! Ask them if they brought their friends any souvenirs !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Thank you , it is my mom . So this is the kitchen .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No ... no , let me in !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It is your timer .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I do not want to be single , okay ? I just ... I just ... I just wanna be married again !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Come on , do it .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "This is not funny !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I mean , Thanksgiving with no turkey is like ... like Fourth of July with no apple pie !",
+        "predicted_emotion": "disgust"
+    },
+    {
+        "text": "Oh , you are the best friend anyone has ever had .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "What difference does that make ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "For Chandler !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Yeah !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I can smell it a little , bake the pie .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "And what you said about Nana .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I know . I know . But , can we please try it again ? Huh ? I mean , you were so close Phoebe !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Aw , God Ross . Oh .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "And my husband he is a lawyer !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Thread the needle .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh that is an eye removal machine .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I mean do we not have as much fun ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I am kidding ! I am kidding !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Would you please go ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yes ? Yes ? ! How can I help you ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well , if you do not have anything to copy , why are you going down there ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Well let see , there was the guy with the ferrets , that is plural .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You just finished ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No ... no , stay right there . Getting closer .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , not much has changed in the last five minutes .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ah yeah , sorry about that .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Really ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "And by you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Joey ! He is working ! You would look good in that .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "... in love with you .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "So now , these are all the tuxedos that we make and if there is anything that you like , we can make you a deal .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , now how much have you won so far ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I knew it ! I knew it , ahh ...",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Since I have been waiting four women , that is four , one higher than the number of centimeters that I am dilated , have come and gone with their babies !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Aw ! Does that mean the Sam Goody\u2019s sale is over ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "All right , all right .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So you uh , want to do something tonight ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "All right , gentlemen , you are up first .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I think it is best sir .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I mean if you buy a bed from Janice ex ... husband , that is like betraying Chandler .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , people !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Ah !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "This has a little bit of orange peel , but no nutmeg .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Do you have a dressing room ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Do we have any thoughts here ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Not interested in that .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "He is in the bathroom . I do not think you wanna go in there !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I can not believe we have never done this before ! It is sooo good !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Okay , I will find someplace else to do the rest of my appointments . I just do not know what the big deal is !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I clunked your heads together !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Really ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Hey , no way ! Come on , this is you guys , call her and work it out .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Uh ... huh . Good luck .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh honey , come on , I am sorry , I did not ...",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Do you wanna , do you wanna send this one out together ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well , that is the part where you tell him that I moved to France . When actually I will be in Cuba .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh , wait , so you guys are telling me you actually did the routine from eighth grade ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I know we both said some things we did not mean , but that does not mean we still do not love each other .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Hey , Mon , if you were hoping to sleep with Joshua the first time tonight , which one of these would you want to be wearing .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , I am sorry , am I getting in the way of all the room switching fun ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "That my friend is D ... Cup .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It is not just the drum noise .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Does it ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Okay , I can not just be a way to kill time til you meet someone better !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "\" Pheebs , can not make it , got a date . Talk to you later . Big Daddy . \" Big Daddy ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Dr . Wells is a woman .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Pheebs , wake up and smell the restraining order .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , I could not be mad at him for too long .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What are you doing ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hm ... mmm",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Damn !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Amy Welch ? Wow ! I have not seen her since ... So , Monica about ready ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Phoebe just because I am alone does not mean I wanna walk around naked .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ugh , how can you even ask that question ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "You do not have a valid driver\u2019s license ... Okay that is it ! Pull over right now !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "She is in labor ! You like that you sick son of a bitch !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh my god .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Sit .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , you know , you and me , it had to end sometime .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Wow ! It looks like we got a lot of good stuff .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "That is so sweet . I am gonna get some coffee .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "It is so great to meet a guy who is smart and funny , and has an emotional age beyond , like eight .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yeah , but they did not ask me !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "They had to have that specially made ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Umm , yeah , actually , Susan gonna be home any minute , it is kinda an anniversary .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , God ...",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Yeah ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "My agent would like to know why I did not show up at the audition I did not know I had today .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh Rachel , I know the best coffee house and it is sooo close .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "We were not but we had one class together . He was such a great guy and he talked so passionately about science . I always remembered him .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "YES ! !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Good night .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , but it is made her so happy .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Just ignore them .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You could not do it ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I turned it off . Mother of God , I turned it off !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Plus , it was , it was probably mostly my fault , anyway .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Oh damnit !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Very life ... like and funny . Okay .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Really ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Well , I mean what about friends of your grandmother ? Would not they have the recipe ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , why do not you tell her to stop being silly !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Aw , we ... we are so ... So umm , well I ... I ... I like you and I ... I love umm , you know hanging out with you .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , it is okay . I do not ... uh ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Thanks .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh hey Joey ! What up ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No , Chandler .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh . Yeah . Uh Chandler let me win .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Sit !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Ross you are not listening to me , I do not have time to stop .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I am Joey .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , I am gonna get your coat and then I will ... I will put you in a cab .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Because you know how competitive you get and well , I say it is cute , others disagree , and I am lying !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Wow , Monica , you look just like your grandmother . How old was she there ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh , not much . I ... I got a job .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I believe you know my husband .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hi , how are you doing Kelly ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Look , I ... Look , I am having a great time with you and I just do not want us to move to fast or put to much pressure on us .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I thought there was not a ball ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Mine !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh , this is so cute .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Damn ! I thought that was going to be romantic as hell !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "You are kidding right ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Done .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You lost the ring !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Okay .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Who ? Who do you know that are friends that just fool around ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh , we wanted to finish the crossword before we went to bed . Hey , do you know a six ... letter word for red ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey , do not we have to ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ohh , it is time to go .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "G ... sharp ? Have you been studying the real names of the chords ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , okay . This can go on for a while .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "How about you ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What Do you think ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "... No , we hate him .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Rach ? What are you doing ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Maybe .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I mean this is a once in a lifetime opportunity ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I mean pretty soon they are gonna be having kids , and then they are just gonna be hanging out with other couples who have kids .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Really ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Nooo , he is leaving for a better job .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Ah , Susan will be so pleased .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "All of a sudden , Leon , the manager , calls me into his office .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "But , you have got one more apology to make , all right , you have got to apologize to Mary ... Angela .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No ! No ! I ... I can do it one more time ! See ? Look ! Hmm , noodle soup . Damnit !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Forgot something else too you bastard !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "We are really good .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah . Yes ! Yeah .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And that is how it is done .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Here you go . Thank you !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , is not that nice ? The three of you trying on slutty lingerie together .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "So are guys doing okay ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Am I naked again ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Hey ! Me too !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Listen , I know you wanted to talk to me , but I have an idea that may make you want to stay married . We register , and you get to keep all the presents !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "After applying the Waxine and linen strips to leg number one ,",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Careful . Light . Okay , do you know how , just sweep it across the lid . Okay ? Just sweep it .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , yeah , my firm represents the band .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What about Glen ? He could be a Glen .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Ahhhh ! !",
+        "predicted_emotion": "fear"
+    },
+    {
+        "text": "Nooo Way ! The most romantic song ever is The Way We Were .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh no it is fine , do not worry about it .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , hello , Mr . Rachel !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I am so sorry , you guys . I did not mean to bring you down .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Radiator .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I used to love to play restaurant .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , I must have said that after you left .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "What ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Chuck Woolery ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Jenny been giving it out since they moved !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Try feeding her again .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well ... I only have one thing to do today . I guess I could push it back .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Look at you , all sweet and innocent , sleeping like an angel ... with Emma chubby little hands wrapped around you .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Ross has a boyfriend .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "But then who ? The waitress I went out with last month ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I can not believe you did that !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "In the hall .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah . I think you have to draw him out . And then ... when you do ... he is a preppy animal .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I know . Let try a look ... of far off ... wonderment .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hi , Julie !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Thank God .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh hey , right back at you .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Pheebs ? What , why are you whispering ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Umm , can I use your bathroom ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh my !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Thanks !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , what is wrong with me lately ?",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "You were the next caller five hours ago . You must be going crazy .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Ok ! So let move on to the Renaissance ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I am afraid I can not let you do that , Joe .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , it was me !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Ah ... ah ! !",
+        "predicted_emotion": "fear"
+    },
+    {
+        "text": "Let call em .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You are going because you hope he is gonna say , \" Yeah , I love you too , Rach .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Is not there a national football league .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Joey !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Yeah but you do not need ... What is this ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hi !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Is this about Mark ?",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Okay , go left . Left ! Left !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hey , how you doing ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Sweety , what are you talking about ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Let go of my hand !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Op , but the twelfth brings a lover spat .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Where are you going , Mr . Suity ... Man ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So we never got to hear about your wedding !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Rachel ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You can not have it .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No you do ... you know what , you are not gonna suck me into this .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Ask again later .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What do you mean ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Whoa , whoa , whoa ! Slow down , you go way too fast .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I love you !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Ohh , that is too bad !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Ow ! Ow ! Ow !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Used to work with her . Used to ! I am a relative and I did not get invited ! A",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I am telling you man , I saw it .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Where would you get too ? We lost you after you opened up all the presents .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Ross I am so sorry . Okay . I ... I will promise I will straighten this out with him tomorrow in person , or via e ... mail .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Step away from the crib , I have a weapon !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hey , what up ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , do not thank me , thank the jerk that never showed up . Okay , I gotta get to get to work .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Ok , this is the face of a person who , you know , does not trust a person .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh down please . I ... I hate to be a ball buster can I just do it ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No thanks , I have already seen one .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And Monica , with that snort when she laughs ?",
+        "predicted_emotion": "disgust"
+    },
+    {
+        "text": "Whoa ! ! Now look , do not be just blurtin stuff out . I want you to really think about your answers . Okay ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "When we make plans , I expect you to show up .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh , Carol teaches sixth grade .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Wow ! I can not believe that is our baby .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Unless , we give her all gifts she can use after she is done being pregnant .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , but what if it is not ? What if there is a reason why we can not have a baby ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So did you do it ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "okay , maybe I will ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I have been waiting for this for months !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Well , I am off to bed !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hi .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Noooo ! !",
+        "predicted_emotion": "fear"
+    },
+    {
+        "text": "I gotta go make a fake Ben .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , I ... I am taking pledges here , eh ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh uh , as it turns out , we can not do it . Monica has to work .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , I guess I could use that . I could say that your love sends me to the moon .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "For what ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Hey , Ross ! ! ! I told you I do not !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Like it would help .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , you broke up with Julie Grath ! How much weight could she have gained ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I am so ... so sorry about yesterday .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Why else would I be here ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "See you later .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "All right , Jester man , look we wanna see the King .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No , I will . I am just not up for it tonight .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh yay ! Great ! Okay , what room number is he in ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "There are not any message you have forgotten to give me are there ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Anyway , I figured after work I would go pick up a bottle of wine , go over there and , uh , try to woo her .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Listen , I have got a secret for you . I let him win .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No ! No ! I wanna see you take ... off .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No . No ... no . No . What would you do next ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ms . Monroe ... Oh there you go .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Umm , you uh , you take a quarter , take a quarter and , and you blacken the edge .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I knew it , wow ! !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Come on Rach , you do not have what , ten minutes ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "We , we come back from our walk and the ... the phone was ringing ...",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Yeah , exactly .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am sorry .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "I am sorry , I just can not go to the hospital lookin like this .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Why , does she have a bad personality ?",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "I will be out in a second .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh my God !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "How can you let him talk to your crotch like that ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Okay , why do not we all uh , open our books to page 23 .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey guys !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Sure . Why not ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What did you just do ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yes . It is very difficult to appreciate a Thanksgiving dinner once you have seen it in reverse .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Erin ! Still here !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Richard living room , drinking wine .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh , you gotta press the button .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So ... It is really just about the math .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Why do not you phase it out ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ooh !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Okay , but this is the last time .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You know Marcel ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hi .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You just take a big , big swing .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Where is this party ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Of course ! !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am an actor right ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hi !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "That is ... that is great !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yeah , I am gonna go to a doctor who went to school in a mini ... mall .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And now Pheebs , you are doing the same thing !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "They keep throwing these sexual harassment cases at me and I keep knocking them out of the park !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Fine . Fine , alright , now you will never know .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What do we got there ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yes , Joanna really has been an incredible mentor to me .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "There you go sweetie ... This is not over .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , I am so sorry .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Hi , Joey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I am so sorry I spilled wine all over your shirt .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "I do not see it . You are dancing with the tall guy over there . Tall guy , raise your hand !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Because you should not be with him . You should be with me .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And I have to write five whole pages if I am gonna stick to his schedule .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , I am sorry .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Hey Joey , come taste this .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Ow !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah , what town are we near ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , that is , that is ah , one of the old ones , he is just taking it to the back .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , I win ! He is got Barney\u2019s on his speed dial .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "You want some coffee ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No way are you cool enough to pull of Clint .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "And you know what the funny thing is ? When this day is over , you get to go home with the baby , ok ? Where does that leave me ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I am sorry , you were fighting .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Although this city is my home .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well kinda old , like 30 .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "But I should tell you this , this exact same thing happened to my roommate Denise .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "If you wanna give Joey a Christmas present that disrupts the entire building , why not get him something a little bit more subtle , like a wrecking ball , or a phial of small pox to release in the hallway ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Great .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Umm , she Rach , not it , she .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So uh , hey , that uh , that wedding ring , huh ? Man , that is nice !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Uh , no she does not but I can , I can get a message to her .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What happening to your accent ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I Really Loved When We Were Singing Partners , And I Should not Have Left You That Way .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Let go watch it at your place .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Come again ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Nooo .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Ahh , look at you , you look great .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Joey , if I go first , I wanna be looking for my keys .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "A test ? ! !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Okay ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Which you are not , because you have totally hung up on him !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I do not care ! I do not care ! !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Alright . Let talk reality for a second .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No suds , no save . Ok ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hi !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Joey . Joey . Joey . Joey ! Joey ! !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Well , why do not think of someone else for a change ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Who wants it ? Anybody ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well you know , some people make deals with a friend , like if neither of them are married by the time they are 40 , they marry each other .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Sophie , get in here !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh my God . You guys ! You gotta come see this ! There is some creep out there with a telescope !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "You really think so ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "My mom never gave birth . Oh ! But my birth mom did .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I know ! I almost called off my wedding . Oh , who your band ? !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I am gonna miss you !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Joe ... Joe ... Joe ... Stalin ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah , right !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , no kidding , this just proves no good can come from having sex with Ross !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "They are all Chandler .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ben , you ready ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Like your sweater .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh my God .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah , the number for a Sidney Marks , please .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Aw forget it , it is from Pier One .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yeah . I can just go home and get back at him by myself .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ok , ok , I will throw away the traps .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Right ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Is it a good sign that they asked us to hang around after the audition ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "She is not ... She is gay . Oh my God . She is so gay !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Could you press up too please ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Damnit !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Who are they ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So , wow , this is pretty wonerful , huh . Mr . major capades guy .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Could have played Monopoly , but nooooo .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "The universe said I was going to meet a nice guy and that is what they gave me ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yeah , it is the new building on Avenue A .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , hey , Gunther , check this out .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "What if we were to tie each other up ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So I am thinking about you . So what ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "G . I . Joe ! Cool ! Can I play ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh here is a whole bunch .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hi . God , it seems like just yesterday you guys used to come out to watch me work .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Well , there is a kiss that he will not forget for a couple of hours , you know .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Maybe , before the game we could enjoy some eight year old some small batch Basel Hadens .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Not just restaurants , from our house .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am sorry , it is not very fair to you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You are gonna love me so much . I got Sting tickets ! !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I knew it !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh no , I can not go . I am practicing ; I got an audition to be the host of a new game show .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "What ? ! No ! It was my idea !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Hi !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Tiger ! Dragon ! Iceberg ! ! Joseph , did you even study at all last night ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "All right , well ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "We did have fun , did not we ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yeah !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It is a nickname , I will explain later .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh good , you are here . Yeah , and I was worried that it was going to be uncomfortable .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You just had Ross baby !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No it is not too soon , I had lunch at a eleven .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well can you at least stay to the end of the play ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And I am only naked in one scene .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , it is not that big ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "That is really beautiful . What does it mean ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I am just going to say hi to the lads . All right ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "She moved in with a guy who was secretly married to her and he said he did not love her , but he really did , and it just blew up !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "What sex ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh well . It probably would have been the most constructive solution .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , she finally stopped crying yesterday , but then she found one of Richard cigar butts out on the terrace , so .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , here we go . Ready ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I guess the last time we really hung out was when our parents rented that beach house together .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "This is unbelievable . I mean , this is unbelievable !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No . No , not at all , that is ... that is ridiculous .",
+        "predicted_emotion": "disgust"
+    },
+    {
+        "text": "All right , what my next present ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Do not let him in ! I am supposed to be at a regatta gala .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Ow ! ... Ow ! ... Ow ! Ow ! Ow ! Ow ! Ow ! Ow ! Ow ! You know , ow !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Hey , what have you guys been up too ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "That is so weird , because every time I go to the dentist , I look down the hygienist blouse .",
+        "predicted_emotion": "disgust"
+    },
+    {
+        "text": "Go !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Yeah , then you did that .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "My name is Ross Geller .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , you should be , this is all your fault ! You meddled in our relationship ! !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Well , you are just gonna have to try .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No it is not .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No Rachel ! They got here first !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "What are you just some big , dumb , stupid , doofy idiot , with a doofy idiot hairdo , huh ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "No , I just I think that it is too soon .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Yeah well , once again not knocking pays off . I only wish you had not been on the toilet .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It is wrong .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , oh , I got it ! Pete ... Chicago .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , uh ... I want her to think I might be in a restaurant ... you know ?",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Phoebe , why is your bag moving ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "No , no he is not .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey , dragon ! Here is your tips from Monday and Tuesday .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Look , I ... I know how miserable you are , I wish there was something I can do .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "You mean the ... Okay by siadic , you mean the towel covered portion .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh . Oh I just cannot believe Clark stood me up !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Hey Joe ! You wanna shoot some hoops ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Okay , I am just gonna , I have to ask that you do not move anything .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I would better not found you naked in my hotel room !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I know ! My grandmother gonna see this !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , it is so easy for you I mean , you are not married , you get to have sex with who ever you want !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I got my hair coloured !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Thanks , see you at the party .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I think she means You dance a dance class .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Happy birthday Grandma !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh what then ? Kick me ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Are you looking at her ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Yeah , we are gonna go .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Shut ... out ! !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "The only reason she is going out with me is because I said I could bring a friend for her friend .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh Rach ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Who cares ? !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Sur ... surprise him ? We are not , we are not gonna make anybody mad are we ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ok , Pheebs , you know what , if we had that , we would not be doing the ritual in the first place .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay . Every time .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "All right .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Like you would not believe . Wow ! This is a great place .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "So , I guess this is over .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Come on ! Come on ! Here , okay ... okay , you see this ? This tiny thing that looks like a peanut ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey ! It is Porsche ! !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Bye ... bye Julie .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh ... ho , and mine !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Uh , quarters or rolls of quarters ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Now , there is two reasons .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah . I just need you to bring me some photos of Ross .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I hear you . But ! Unfortunately , my company is transferring me overseas !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Phoebe , woo !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Coming through . Move , move .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh , Dana Keystone from college .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah but , maybe it is not what we think . Maybe it is tell Monica I am sorry I ... drank the last of the milk .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And that picture of Chi ... Chi with her mischievous grin .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "They will see you talking to me and that is ... I am a hit !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I love you , too .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Get up !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "You have no idea what a nightmare this has been . This is so hard .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Waitressing ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh um ... I am , I am okay .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "I can not watch !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Okay , that is why you did not want me to touch him right ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "That is easy for you to say , you were not almost just killed .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It would not have mattered anyway , Phoebe , you and I are , are gonna live together , we are roommates ; that is the deal .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And the way she looked at me , pure lust .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Okay , there was some staring and pointing .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Who cares , we will eat at the sink ! Come on , let play !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Uh ... huh .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I will find Bob , I will get him .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , I can not watch this .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Shoot ! Shoot ! Shoot !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "But I got to act with a robot Pheebs , and ... and I do not know anything about technology !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "I cannot believe that I just spent the last two days trying to figure out the recipe and it was in my cupboard the whole time !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I do not think the contestants are supposed to speak to each other .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh , a 16 ... hour sit ... in for Greenpeace .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , you bet I am !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Umm , I have been thinking , I am just gonna come out and say it .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh . No ! No wait , that is weird !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Uh ... huh , well ! But umm , still I am ... I am mad at you .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Hey , you ok ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Actually , it is just bag .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I would better get back to my desk .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "An ... an ... anyway I ... I just wanted to say that since I am getting your brain when you leave the show , I was wondering if there was any tips you can give me",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ah ... ooh ! Well , looks like , uh , we kicked your butts .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Are you sure ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh yeah . Boy , urine cuts right through an ice sculpture doesn\u2019t it ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am sorry honey , what were you saying ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yes ? !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Hello darlings .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Okay . Just give us a second . Ross !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Wow ! That is exciting , you went to Japan , made up a woman .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Please , I am not going for anything .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Wait ... wait where are you going ? Where are you going ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Did you ever feel like sometimes you are just so unbelievably uncoordinated ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "It is in the living room where there is also a light ! And no one will kick you in the shin .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I would love to ask you in , but uh , my sister visiting and I think she is asleep on the couch .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Like me tiny doctor !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Thanks , but I kinda have a problem to deal with here .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh but not that way . I mean ... I mean I am not in love with her . I love her like a , like a friend .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I know . Thanks .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Do not get to excited because that is not gonna happen unless you get ... No way !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I do not think I should say .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Okay , and then this is the coffee house . This is where I play my music .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yes , second in two years . Third overall .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So ask me what I did today .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "There he is !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No , you started it .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "We will give you Janice .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ok , ok , here we go .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Joey , we have something to tell you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Let me get it out before it sets .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh ! Hey Rach , listen umm",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Listen , uh , maybe we could get together later ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Thank you soo , much .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Look ! This guy fell asleep ! He fell asleep too ! Be mad at him !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Look , um , I think we should talk about what happened on the terrace .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Dude !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh , now , do not listen to him , Pheebs , I think it is endearing .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "anyway , his name is Allan and we have been going out for three years .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh hey , Ross .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "All right , so who do you got it narrowed down to ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "But what choice did I have . He was keeping my sister in a dungeon !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Okay .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am kidding .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Minsk . It is in Russia .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "To kill Bob ? ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "No ! Wait no ! Shut up ... I mean do not cry ! Let me get my checkbook !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "10 , 9 , 8 , 7 ... negative 46 , negative 47 , negative 48 ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh no ... no ... no , I am there .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh God , you saw me ? ! Oh !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Please tell me you got the message !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "You ? ! And ... and you ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Hey Joey ! Aww , you remembered even though you are a big star !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Aw , all right take this bed , you can make other friends .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Phoebe , what the matter ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I will go in there .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh dude , do not worry about it , I found an unattended maid car . We are way ahead of the game .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hello ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Do not you talk to my husband like that you stupid bastard !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "No ... no hey buddy , please let me dance with that girl , I really like her and I think I have a shot .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And we are gonna go out , we are gonna have a good time , and take your mind off of childbirth and c ... sections and ... and giant baby heads stretching out ...",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Okay , I am gonna ask you questions and you answer real quick .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I was really nervous and the accent just uh , just came out .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Pheebs , that is great !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yes , remember that time on the frozen lake ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Alright , now I will let go if you both stop .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You and I , we are interfacing .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So if you can help me find my Father then you should !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hi ! Okay , do not be mad at me , but I could not resist .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Um , um , Rachel can we talk for a sec ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I could be Chandler new roommate .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "What ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I know , they are gonna be so happy together .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "In fact , I ... I ... I was married to one of them .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "How many of those have you had ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Look , this is my home and I want to be able to come and go whenever I want !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "No ! No ! No ! No ! No ! I ... I ... I ... I ... I need to , I need to lie down .",
+        "predicted_emotion": "fear"
+    },
+    {
+        "text": "We said six !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "You or me ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I am doing research for a book , and I was wondering what someone might do if they left a baby on a city bus .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Clearly there is a vibe going on between us .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You had a rough day , huh ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh yeah ! I ... I would like that .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I do .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey sweetie !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I heard it from my friend Irene who heard it from some guy !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well , we believe it originated here . In the Aroma Room .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So honey this uh , this threesome thing umm , I mean how ... how are you gonna start to find",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh ... huh . Now you can turn around or you can go in there and rip the Band ... Aid off . What to you want to do ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh no ... no ... no ! Stay ! Stay ! Because you ... you should you ... you ... you should stay !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh , come on !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Oh my God ! Oh my God ! !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Really ? Like how ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Although you know , he ... he is a private guy .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No , just a Friday night .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I like a girl with a strong jaw .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And the chefs eat with the other chefs , right ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I was scared of telling you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , yeah .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Thanks . Listen , about the weekly numbers , I am gonna need them on my desk by 9 : 00 .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What ? Whoa , whoa whoa whoa , what do you mean , back to Jordie ? We never landed on Jordie .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "All right . Chandler , you can either spin the wheel or pick a Google card .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh that one is available now , but only identical twins are eligible . It is a twins study .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Fine !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Not so good , Simmons and I gave him a wedgie .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh I can not . Dr . Roger is coming over again .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "So now I have to go so he will think that I am totally ok with seeing him !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh wait ! That can not be the one Rachel talking about . She did not even know that happened . So which one was it ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "What this ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Ben , Ben , hey Ben . Nothing . I do not think that is his name .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You know , the guys are probably having a great time .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Monica .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "We got some Vap ... O ... Rub in some places .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "1 , 2 , 3 , 4 , 5 , 6 , 7 , 8",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I have a question .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No ... no ... no ! We need something old !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Yeah , maybe ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Save it Red ! Unless you wanna spend the night in the slammer , you apologize to the tree .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "That is what you say about porn .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And you know what , I get excited about stupid stuff , like when I my People magazine comes on Saturday , and the new Hold Everything catalog .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , oh just ah , I was just wondering , when you and I split up , did you get the tape that was half the last episode of",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And besides , hey ... hey ... hey no one is even gonna look at you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay . Uh , well can we , can we get you anything Mr . Zelner ? Maybe some chocolates ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And a nice hot cider for Monica .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Great job , team !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "What ? What kind of a regatta gala starts at night ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "This is not the first boyfriend bonfire that we have seen get out of control .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , we called everyone in your phone book and a bunch of people came , but it took us so long to get you here that they ... they had to leave .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "No . But I got Knicks tickets for you , me , and Chandler .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Wow !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "This is my wedding .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hi .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It does not matter because nothing beats a three and a six .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You are steel !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Alright , and if you are gonna put your feet up , why do not you sit on the ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am 33 .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Then y have not . You are burning your tomatoes .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No , no ... n ... n ... n ... no ! !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Rach ! Hey ! It is fine ! You are at Joey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Listen uh , I would prefer it if you did not call me Joey .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yes .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , you promised me a fun road trip !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No . No , I could not do that .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I think you will find this room more to your liking .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ross .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ah .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "How could I have left them in the copy room ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "London , baby ! !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Like this .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I mean sex does not have to be a big deal !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Joey , what ... what are you doing going into my bedroom ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah ! You gotta tell a girl before you tape her . Such a rookie mistake .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay ... Dokey",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Why not a Yugoslavian ? \"",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "... and ... ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I think I know that girl .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , it is getting late .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , I am sorry too . But , I gotta tell you , I am a little relieved .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yeah I guess I will let it go .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I tried to reach you at work . There is ... been a fire .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "It is the semi ... finals ... of her ... botchy ball tournament .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I did not even think about that ! Aaargh , sexual politics ! !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "All right , first name on the speed dial is mom .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "She is kidding , but do not ever disagree with her again . Okay , now I am kidding !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Really ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Really ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh please , could she be more out of my league ? Ross , back me up here .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "I think , that if you really like this guy , you should just trust him .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What ? ! All right ... Hey ! Do not look at me ! You are the one who wanted to come up and look for some stupid Burger King comet !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Look , I know I feel asleep before I could shower and now I do not have time !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I am not jealous .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Not yet ! Not yet ! Not yet ! Not yet ! Not yet ! Not yet ! Not yet ! Not yet !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Bye !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh ! That is why . I am sorry !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Nothing , nothing .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "About what ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I just did not see the fast song coming .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh God !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "This is so great !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh yeah , you are solid . Yeah , you are just no me .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ha ... ha ! That is like 500 bucks you owe me !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "And ... and a power tie ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I think you have got concussion .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "You got to tell me exactly what to do there .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well that is the best part . Umm , you guys get to decide !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , okay . Will you take my place ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "All right Pheebs , stick out your plate !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Because of the weekend , we had a fight .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "All right .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I found this place that makes the greatest mozzarella sticks and jalepino poppers .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Hi .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No ! Ah ... ah ... ah ... ah ... ah ! You can have this back when the five pages are done ! Ahh !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Did you tell the doctor you did it jumping up and down on your bed ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I am sorry !",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "He said he is really gonna miss you guys .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Whose is it ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Nobody respects the bucket !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "That is it !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Nothing !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "... I do not know .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well ... he happens to be a very nice ... guy ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You are not feeling left out or anything are you ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , I know and he is soo sweet ! Listen , he said he was going to call , so put him straight through .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "So why can not the three of us go out together ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Really ? That is great !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "So I will not get nervous talking in front of people .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh ... huh , that is why they call it Staten Island .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Did I turn the fish ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , yeah ! How did you meet her ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Wait ! Okay !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "This is so great ! Now we can enter into doubles tournaments !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well , I am not I am not at all surprised they feel that way .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , listen I ah , still have one more person to ah meet , but unless it turns out to be your sister , I think you are chances are pretty good .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Chandler ? Do you promise to be good ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Why do you want to see my hand ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "What ? Is it the comet ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh , we have our babies .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Who told you that ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Are you under the sheet ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am so on board !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Mmmm .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , great . Although I did sit down where there was not a chair .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , I did not realize until I got home .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "All right , look , I am just gonna ask you this one time .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Thanks .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You already got the first class tickets ... you got the lounge !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Okay , I will pay you tomorrow .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Well , do not cha wanna ?",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well , I ... I said yes .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Was your basket on top ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I am on time !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Weirdest thing . Did I hear ... Mother of God it is true !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "You are a genius , Ross .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "What ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Well , it is a pretty big commitment , I mean , what if one of us wants to move out ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hello .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Or an uncle ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Diane Keaton .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh , this is too weird .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Because ! Cause ... Cause you are my baby sister !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh that is right . Well uh , would you be interested in seeing a Ukrainian film ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey ! Do not laugh at him !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Let us begin .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Tag !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , here is batch 22 .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "That sucks !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I am sure as hell not a dancer , it is no use . Marge will never go for me .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Now could not you just have made some sort of inappropriate joke ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hey Joey , I want to talk to you .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And I wish that we can work it out Ross , but we can not .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Those are dead serious .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Does , um , anyone wanna see ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh , some idiot customer put a suggestion in the suggestion box .",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh my God . Thanks .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Huh ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So Chandler , have you heard about Monica secret boyfriend ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I want to do it again .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "They are not listening to me ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Okay , this is what I am talking about , this . I ... I need to live in a land where people can spill .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And Monica knows ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "It is not like we run in the same circles .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ok , and this is Funny Clown . Funny Clown is only for after his naps , not before his naps or he will not sleep .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "\" Restaurant reviewer admits : I was wrong about Monica . \"",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yes .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oy ! !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I had a problem .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "But I do know that it is some time tomorrow .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Now you do that , you are on TV .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "You could ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "He ... he was with me umm , we are playing a little game , you know ? Hide and seek .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ok , three kinds of potatoes coming up .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It is not the pants .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Look , look at your man , Ewing . Nice shot . You know what , he could not hit water if he was standing on a boat .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well I do not know , I ... I suppose we may have favored you unconsciously , you were a medical marvel ! The doctor said your mother could",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , ai not this nice ? It is so quiet , I could just lie here all day .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Come on .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And there is daddy !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I think we do . Why do not we go inside ? Look uh , I know why you are here .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You are right , thanks for keeping me honest dad .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yes , good ! Ok ...",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Wha ... What ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah ! yeah ... The hard part is over !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Well , you might try accidentally breaking something valuable of hers , say her ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah ... yeah , there it is , just a phone number a really hot girl gave me .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No , but they stuck me in personal shopping , which is just a huge step down !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Um uh ... We are ... we are just having this baby together but uh , uh that is all .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uh , Phoebe we have been getting complaints and uh , we are gonna move you to a less high ... profile spot .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And monkeys can not write out prescriptions .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , it must just be me then .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh ! Sorry . Uh , I have got those plans with Phoebe , why ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I guess you do not .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Look Carol umm , I was , I was thinking maybe uh , maybe we can spice things up a little .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Focus .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Same as yesterday , same as the day before .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So that is dumb what I said , do not tell him I said that .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yes , I am familiar with the concept . We can just look for it .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What are you gonna do ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "What ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "You are doing this .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Exactly .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Umm , how it going with you guys ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Relax . It is just Issac D . J . ... ing at the Philly . You should come .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "A scooter !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I just have to clean that up .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Limited seating my ass . Let see who made the cut . Hi !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "All right , I am just gonna go on the date .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "We could , or we can have sex in it .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh Maria . You can not say no to her , she is like this lycra spandex covered gym ... treat .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh ! I know ! It is because ... he is gorgeous , and he is charming , and when he looks at you ...",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Mrs . Tedlock . You are looking lovely today . And may I say , that is a very flattering sleeve length on you .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "You are making a big mistake here . I mean , San Diego all well and good , but if you give him to me , I will start him off against a blind rabbit and give you twenty percent of the gains .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh yeah !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Nice to meet you . I wish you would told me we were having company , I would fix myself up !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "See , he pretend he don\u2019t even hear me !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Ball ? There is no ball .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh , my fiancee wants the Swing Kings .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Umm , no . No .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No you did not !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "To see if know what these guys are talking about .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Really , Rachel , I was thinking of you the whole time .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Chandler , here you go , got your traditional Thanksgiving feast , you got your tomato soup , your grilled cheese fixin , and your family size bag of Funyuns .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "It is still ... It is got a tail ! Get it out of here ! Get it out of here ! !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Joey ? Could you get that ? What are you doing here ? I thought you were in your room ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "In this world history teaches us nothing !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "I had to have one last kiss , and also ... also you said that you were going to leave right after I got on the plane !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hey .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Now , this is last minute so I want to apologize for the mess . Okay ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "That is it . That is my worse Thanksgiving .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Okay , ah umm , ah , a 8 . Ah , a 6 ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "All right , ladies and gentlemen , let poke .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey ! I call her !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "You know what , hold on , let me go get Chandler .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "My parents spent the money for our wedding !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "My boyfriend really does have good taste !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Umm , candles , champagne , yeah anniversaries are great .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Oh , no no no . I am fine . I am fine .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Come on you gotta have one !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hey where ... where are the pictures that creepy pretzel vendor took of us together ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hello , Joey .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh yeah ? And who do you like ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Nice ! Wow Phoebe you are good !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "All right , well I am gonna put my sweats back on .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I know , I lied ! I did not want her to think I was a terrible mother ! I can not even see my own baby !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "We do not care about where we stay .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What are you guys doing ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ah !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "We just finished this magnificent Thanksgiving dinner .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yeah , not as much as you used to love to play uncooked batter eater .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What like Pete Dakota ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , cheerie ... o !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "No . No , I just uh , I just loved the way it feels when everybody thinks I own a Porsche .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "It is Joey right ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Here we go . Mona umm , I think it is time we ... we had a conversation about ... about where things are with us .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh yeah , sure .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "And any extra cash my father has he saves for his yearly trips to ... Dollywood .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Just a touch .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "So where did you study ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "It is pretty clear .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Enh . Sure !",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I promise .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Plus , you know , I think it should be Joe .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What the hell is this ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "I just talked him into it , do not tell me I have to do you too . The puppet master gets tired people .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Right . No biggie . Stay loose .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ugh . Wait , wait , wait .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Go away ! Stop looking in here !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Oh my God !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh hey ! There is some kids playing in the street , you wanna go down there and give them a project , ruin their day ?",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Hi .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh I know , I have been there . I remember toward the end",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I do not know Rach .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "These old things .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey guys , what are you doing ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Does it have to do with ... with Chandler and that sock that he keeps by his bed ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Sure .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uhh , the ball thing .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Gary , I am here to report a crime .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Nope , sound like me . Pheebs , it is going great . Look at Chandler with little baby girl Chandler .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Th ... th ... that is all it is , a third nipple .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ahh . Ooh , is this a ah , is this a bad time ?",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Yeah , umm that is Whitney , Kyle ex ... wife out there , now do you think that you can you know divert her so that we can slip out ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Wow ! Skates !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Oh .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "God , it is gonna so weird like when I come home and you are not here .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "I do not know how any of these got opened ? !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Which I am not .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "What up ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "No , you were right . I do not have a plan .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "It is kind of embarrassing .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah , it is .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh ... hey ... hey ... hey ! There you are !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "And shame on all of you !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Come on little Chandler , it is time to be born . Come on little Chandler ! Come on !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Rach , are you really gonna let him do this ?",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Chris says they are closing down the bar .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Phoebe , would you take a look at this mess ! ! ! !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "It is so secluded up here .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh ... Wha ... Ho ! What are you middle naming me for ? ! I left you a note !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "I mean he is got the monocle , he is got the top hat ...",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "Yeah , well he would prefer water colors , but you know , he has easy access to a lot of charcoal .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Ginger . I am talking to Ginger , so ...",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Yeah .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "That is not what we are gonna do !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "Cause I kinda all ready told her uh , it was , it was already taken care of .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Uff , I hope he lets her down easy .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Wow ! You guys really do not know anything !",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "So what did you do today Pete ?",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "I mean that is unbelievable .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "It is Joshua .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Okay , in about ten seconds you are gonna see him kiss me .",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "So you like the short hair better .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Hey !",
+        "predicted_emotion": "joy"
+    },
+    {
+        "text": "And ... and that is only cause it is right there when you turn it on !",
+        "predicted_emotion": "anger"
+    },
+    {
+        "text": "You know that whole swimming thing is a myth .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "Oh ! No , I ... I think I just had a contraction .",
+        "predicted_emotion": "sadness"
+    },
+    {
+        "text": "Okay , I understand why Superman is here ,",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You will get one .",
+        "predicted_emotion": "neutral"
+    },
+    {
+        "text": "You can not be a lawyer . You are eight .",
+        "predicted_emotion": "surprise"
+    },
+    {
+        "text": "Yeah ! You can hook it up to your TV and you get radio !",
+        "predicted_emotion": "joy"
+    }
+]
